@@ -48,6 +48,8 @@ Key Insights:
 6) Long-duration songs are more commonly associated with globally popular artists such as Taylor Swift, The Weeknd, and Lana Del Rey.
 7) Popularity trends reveal differences in listener engagement across artists and release types.
 
+https://github.com/yashjaddhav/Spotify-Music-Analytics-Dashboard/blob/main/Snapshot%20of%20spotify%20dashboard.png
+
 
 
 
